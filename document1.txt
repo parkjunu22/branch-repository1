@@ -10,7 +10,7 @@ def partition(l, r, nums):
     nums[ptr], nums[r] = nums[r], nums[ptr]
     return ptr
  
-#ssssssssssssssssss
+#yyyyyyyyyyyyyyyyyyy
  
  
 def quicksort(l, r, nums):
